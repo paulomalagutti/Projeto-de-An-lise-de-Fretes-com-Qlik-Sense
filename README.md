@@ -22,9 +22,9 @@ O dashboard destaca os seguintes indicadores de performance:
 * **Custo Médio por Frete:** R$ 2.396 [cite: 3, 5]
 * **Perda por Ocupação (R$):** R$ 4.18M [cite: 15, 16]
 * **Peso Médio Transportado (Kg):** 4.66k [cite: 12, 14]
-* **Custo por Tipo de Veículo:** Análise detalhada do custo médio por viagem para Carreta Eixo Estendido, Carreta Simples, Truck e Toco[cite: 17, 18, 19, 23, 25].
-* **Custo por Kg:** Comparativo de custo por quilograma transportado entre VUC, Toco e Carretas[cite: 39, 40, 41, 42, 43].
-* **Taxa de Ocupação:** Percentual de utilização da capacidade dos veículos[cite: 8].
+* **Custo por Tipo de Veículo:** Análise detalhada do custo médio por viagem para Carreta Eixo Estendido, Carreta Simples, Truck e Toco.
+* **Custo por Kg:** Comparativo de custo por quilograma transportado entre VUC, Toco e Carretas.
+* **Taxa de Ocupação:** Percentual de utilização da capacidade dos veículos.
 
 ## 4. Análises e Visualizações
 
@@ -32,12 +32,12 @@ O painel inclui diversos gráficos para facilitar a análise, como:
 
 * **Evolução do Frete e Peso:** Gráficos de linha que mostram a tendência de custos e volume ao longo do tempo.
 * **Análise Comparativa de Veículos:** Gráficos de barras comparando o custo médio por frete, por Km e por Kg entre os diferentes tipos de veículos.
-* **Variação Mensal:** Análise da variação percentual dos custos de frete mês a mês[cite: 30].
+* **Variação Mensal:** Análise da variação percentual dos custos de frete mês a mês.
 
 ## 5. Principais Insights e Recomendações
 
 Com base nos dados, o painel oferece as seguintes recomendações estratégicas:
 
-* **Veículo de Maior Custo:** As **Carretas de Eixo Estendido** possuem o maior custo médio por viagem, totalizando R$ 3.004[cite: 18, 58].
-* **Melhor Custo-Benefício:** O **VUC (Veículo Urbano de Carga)** apresenta o menor custo por quilômetro, sendo a opção mais eficiente para otimização de despesas de transporte[cite: 63, 68].
-* [cite_start]**Recomendação Principal:** Priorizar o uso de **VUCs** sempre que a capacidade de carga e o tipo de ativo permitirem, a fim de reduzir significativamente os custos operacionais[cite: 68].
+* **Veículo de Maior Custo:** As **Carretas de Eixo Estendido** possuem o maior custo médio por viagem, totalizando R$ 3.004
+* **Melhor Custo-Benefício:** O **VUC (Veículo Urbano de Carga)** apresenta o menor custo por quilômetro, sendo a opção mais eficiente para otimização de despesas de transporte.
+* **Recomendação Principal:** Priorizar o uso de **VUCs** sempre que a capacidade de carga e o tipo de ativo permitirem, a fim de reduzir significativamente os custos operacionais.
