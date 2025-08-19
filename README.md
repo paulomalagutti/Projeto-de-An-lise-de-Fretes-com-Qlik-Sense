@@ -19,9 +19,9 @@ Os dados são carregados a partir do **Google BigQuery**, conectando-se ao datas
 
 O dashboard destaca os seguintes indicadores de performance:
 
-* **Custo Médio por Frete:** R$ 2.396 [cite: 3, 5]
-* **Perda por Ocupação (R$):** R$ 4.18M [cite: 15, 16]
-* **Peso Médio Transportado (Kg):** 4.66k [cite: 12, 14]
+* **Custo Médio por Frete:** R$ 2.396
+* **Perda por Ocupação (R$):** R$ 4.18M
+* **Peso Médio Transportado (Kg):** 4.66k
 * **Custo por Tipo de Veículo:** Análise detalhada do custo médio por viagem para Carreta Eixo Estendido, Carreta Simples, Truck e Toco.
 * **Custo por Kg:** Comparativo de custo por quilograma transportado entre VUC, Toco e Carretas.
 * **Taxa de Ocupação:** Percentual de utilização da capacidade dos veículos.
